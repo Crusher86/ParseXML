@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<market>
+	<department id="1">
+		<product id="1">
+			<title>Product 1</title>
+			<price>100</price>
+			<amount type="kl">4</amount>
+		</product>
+		<product id="2">
+			<title>Product 2</title>
+			<price>98</price>
+			<amount type="kl">34</amount>
+		</product>
+		<product id="3">
+			<title>Product 3</title>
+			<price>154</price>
+			<amount type="kl">10</amount>
+		</product>	
+	</department>
+	<department id="2">
+		<product id="1">
+			<title>Thing 1</title>
+			<price>3000</price>
+			<amount type="kl">12</amount>
+		</product>
+		<product id="2">
+			<title>Thing 2</title>
+			<price>1000</price>
+			<amount type="kl">9</amount>
+		</product>
+		<product id="3">
+			<title>Thing 3</title>
+			<price>9999</price>
+			<amount type="kl">50</amount>
+		</product>	
+	</department>	
+</market>	
